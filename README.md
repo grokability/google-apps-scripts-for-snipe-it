@@ -1,6 +1,6 @@
 # Google Apps Scripts for Snipe-IT
 
-**[Snipe-IT](https://snipeitapp.com)** prides itself on letting you move _away_ from spreadsheets and Google Sheets, but there are times when you need to run a one-off script and you might not have the time (or programming resources) to create your on bespoke solution to one-off data manipulation. 
+Our open source IT asset management system **[Snipe-IT](https://snipeitapp.com)** prides itself on letting you move _away_ from spreadsheets and Google Sheets, but there are times when you need to run a one-off script and you might not have the time (or programming resources) to create your on bespoke API integration solution for one-off data manipulation. 
 
 This repository contains a collection of Google App Scripts that can be used to manipulate data in your Snipe-IT instance quickly and easily.
 
