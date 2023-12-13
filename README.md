@@ -8,6 +8,9 @@ This repository contains a collection of Google App Scripts that can be used to 
 
 When you have a Google Sheet with data in it and you'd like to run a Google App script on it, go to the sheet that contains the data in it and within the Sheets UI, go to  `Extensions`, then `Apps Script`. 
 
+<img width="434" alt="Screenshot 2023-12-13 at 4 52 28 PM" src="https://github.com/grokability/google-apps-scripts-for-snipe-it/assets/197404/38737920-aca3-4879-b68e-47ad97f5592a">
+
+
 This will open the Apps Script editor. From there you can either copy and paste the code from the appropriate scripts in this repo, or add the script file using the left-side File menu in the Sheets UI.
 
 ## Important!
