@@ -1,12 +1,12 @@
-# Google App Scripts for Snipe-IT
+# Google Apps Scripts for Snipe-IT
 
 **[Snipe-IT](https://snipeitapp.com)** prides itself on letting you move _away_ from spreadsheets and Google Sheets, but there are times when you need to run a one-off script and you might not have the time (or programming resources) to create your on bespoke solution to one-off data manipulation. 
 
 This repository contains a collection of Google App Scripts that can be used to manipulate data in your Snipe-IT instance quickly and easily.
 
-## Using Google App Scripts
+## Using Google Apps Scripts
 
-When you have a Google Sheet with data in it and you'd like to run a Google App script on it, go to the sheet that contains the data in it and within the Sheets UI, go to  `Extensions`, then `Apps Script`. 
+When you have a Google Sheet with data in it and you'd like to run a Google Apps script on it, go to the sheet that contains the data in it and within the Sheets UI, go to  `Extensions`, then `Apps Script`. 
 
 <img width="434" alt="Screenshot 2023-12-13 at 4 52 28 PM" src="https://github.com/grokability/google-apps-scripts-for-snipe-it/assets/197404/38737920-aca3-4879-b68e-47ad97f5592a">
 
