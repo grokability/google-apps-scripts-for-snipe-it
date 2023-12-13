@@ -10,9 +10,9 @@ When you have a Google Sheet with data in it and you'd like to run a Google App 
 
 This will open the Apps Script editor. From there you can either copy and paste the code from the appropriate scripts in this repo, or add the script file using the left-side File menu in the Sheets UI.
 
-## Important
+## Important!
 
-These scripts are by design data destructive. Please always make sure you run a backup before running them.
+These scripts are *by design* data destructive. Please always make sure you [run a backup](https://snipe-it.readme.io/docs/backups) by going to `Admin Settings > Backups` before running them. That way if something gets messed up, you can easily restore to a known good point.
 
 ## Using these Scripts
 

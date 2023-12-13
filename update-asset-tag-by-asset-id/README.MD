@@ -2,6 +2,10 @@ Snipe-IT offers a way to bulk regenerate asset tags all at once, but updating on
 
 This Google App Script will let you provide a list of Asset IDs and the new asset tags they should use, along with showing you the status of the request, without having to know how to write code to use the Snipe-IT API.
 
+## Important!
+
+These scripts are *by design* data destructive. Please always make sure you [run a backup](https://snipe-it.readme.io/docs/backups) by going to `Admin Settings > Backups` before running them. That way if something gets messed up, you can easily restore to a known good point.
+
 ## Sheet Format
 
 This script expects a CSV that has a header row (though it doesn't matter what the header names are) with the first column being the internal Snipe-IT asset ID, and the second column being the new asset tag you want to change it to.
