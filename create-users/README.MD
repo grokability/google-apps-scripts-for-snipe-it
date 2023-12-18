@@ -6,16 +6,25 @@ These scripts are *by design* data destructive. Please always make sure you [run
 
 ## Sheet Format
 
-This script expects a CSV that has a header row (though it doesn't matter what the header names are) with the __first column__ being the __internal Snipe-IT asset ID__, and the second column being the new asset tag you want to change it to.
+This script expects a CSV that has a header row (though it doesn't matter what the header names are) with column order matching the order in the table below.
 
 | Column Order | Column     | Description            | Required | Unique |
-|--------------|------------|------------------------|----------|-------|
-| 1            | First Name | First name of the user | Yes      | No    |
-| 2            | Last Name  | Last name of the user  | No       | No    |
-| 3            | Email      | User's email           | No       | No    |
-| 4            | Username   | User's username        | Yes      | Yes   |
-| 5            | Password   | User's password        | Yes      | No    |
-| 6            | Notes      | Notes on this user     | No       | No    |
+|--------------|------------|------------------------|----------|--------|
+| 1            | First Name | First name of the user | Yes      | No     |
+| 2            | Last Name  | Last name of the user  | No       | No     |
+| 3            | Email      | User's email           | No       | No     |
+| 4            | Username   | User's username        | Yes      | Yes    |
+| 5            | Password   | User's password        | Yes      | No     |
+| 6            | Notes      | Notes on this user     | No       | No     |
+| 7            | Status     | Leave this empty       |          |        |
+
+<img width="1668" alt="Screenshot 2023-12-18 at 5 54 33 PM" src="https://github.com/grokability/google-apps-scripts-for-snipe-it/assets/197404/d9d93be5-392f-4047-8d39-aa4b0fa6028a">
+
+Passwords will automatically be hashed in the database. 
+
+Validation errors will show up in the Status column:
+
+<img width="1319" alt="Screenshot 2023-12-18 at 5 47 52 PM" src="https://github.com/grokability/google-apps-scripts-for-snipe-it/assets/197404/b564b883-ab95-44ea-a9a6-9510dca4aab6">
 
 ## Using this Script
 
