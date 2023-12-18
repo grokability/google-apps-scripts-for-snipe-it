@@ -22,9 +22,7 @@ This script expects a CSV that has a header row (though it doesn't matter what t
 
 Passwords will automatically be hashed in the database. 
 
-Validation errors will show up in the Status column:
 
-<img width="1319" alt="Screenshot 2023-12-18 at 5 47 52 PM" src="https://github.com/grokability/google-apps-scripts-for-snipe-it/assets/197404/b564b883-ab95-44ea-a9a6-9510dca4aab6">
 
 ## Using this Script
 
@@ -38,4 +36,6 @@ You will need to update:
 
 ### Result
 
-<img width="702" alt="Screenshot 2023-12-12 at 10 07 09 PM" src="https://gist.github.com/assets/197404/533dbf17-6383-43c0-80ed-7895fc00dfa2">
+Validation errors and success indicators will show up in the Status column:
+
+<img width="1319" alt="Screenshot 2023-12-18 at 5 47 52 PM" src="https://github.com/grokability/google-apps-scripts-for-snipe-it/assets/197404/b564b883-ab95-44ea-a9a6-9510dca4aab6">
