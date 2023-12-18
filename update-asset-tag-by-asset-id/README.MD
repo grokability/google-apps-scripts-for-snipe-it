@@ -10,11 +10,11 @@ These scripts are *by design* data destructive. Please always make sure you [run
 
 This script expects a CSV that has a header row (though it doesn't matter what the header names are) with the __first column__ being the __internal Snipe-IT asset ID__, and the second column being the new asset tag you want to change it to.
 
-| Column Order | Column | Description|
-|--------------|--------|------------|
-| 1            | Asset ID          | The unique ID of the asset within Snipe-IT                                 |
-| 2            | New Asset Tags    | The new asset tag value you wish to switch to                              |
-| 3            | Status            | A colun without values that we will udpate with the status of your request |
+| Column Order | Column | Description                                                                 |
+|--------------|--------|-----------------------------------------------------------------------------|
+| 1            | Asset ID          | The unique ID of the asset within Snipe-IT                                  |
+| 2            | New Asset Tags    | The new asset tag value you wish to switch to                               |
+| 3            | Status            | A column without values that we will udpate with the status of your request |
 
 
 ## Using this Script
