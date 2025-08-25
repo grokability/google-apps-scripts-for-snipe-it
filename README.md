@@ -19,4 +19,4 @@ These scripts are *by design* data destructive. Please always make sure you [run
 
 ## Using these Scripts
 
-Each script lives in it's own directory within the repo. You will find a readme file within each directory that explains customizations (such as BREARER-TOKENS, your API endpoint, etc) that need to be made to the script before you can run it.
+Each script lives in it's own directory within the repo. You will find a readme file within each directory that explains customizations (such as BEARER-TOKENS, your API endpoint, etc) that need to be made to the script before you can run it.
