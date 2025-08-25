@@ -29,6 +29,4 @@ You will need to update:
 
 ### Result
 
-Validation errors and success indicators will show up in the Status column:
-
-<img width="1319" alt="Screenshot 2023-12-18 at 5 47 52 PM" src="https://github.com/grokability/google-apps-scripts-for-snipe-it/assets/197404/b564b883-ab95-44ea-a9a6-9510dca4aab6">
+Validation errors and success indicators will show up in the Status column.
