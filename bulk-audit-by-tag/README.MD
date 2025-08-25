@@ -12,7 +12,7 @@ This script expects a CSV that has a header row (though it doesn't matter what t
 |--------------|-----------------|----------------------------------------------|----------|--------|
 | 1            | Asset Tag       | Asset tag for the asset you wish to audit    | Yes      | No     |
 | 2            | Note            | Any audit notes you'd like to provide        | No       | No     |
-| 4            | Next Audit Date | The date when the next audit for this asset is scheduled (YYYY-MM-DD format)         | No       | No     |
+| 3            | Next Audit Date | The date when the next audit for this asset is scheduled (YYYY-MM-DD format)         | No       | No     |
 | 4            | Status          | Leave this empty                             |          |        |
 
 
