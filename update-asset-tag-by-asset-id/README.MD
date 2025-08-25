@@ -14,7 +14,7 @@ This script expects a CSV that has a header row (though it doesn't matter what t
 |--------------|--------|-----------------------------------------------------------------------------|
 | 1            | Asset ID          | The unique ID of the asset within Snipe-IT                                  |
 | 2            | New Asset Tags    | The new asset tag value you wish to switch to                               |
-| 3            | Status            | A column without values that we will udpate with the status of your request |
+| 3            | Status            | A column without values that we will update with the status of your request |
 
 
 ## Using this Script
